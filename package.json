@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.2",
+    "@types/node": "^18.0.6",
+    "better-replit-db": "^1.1.9",
+    "csv-parse": "^5.3.0",
+    "got": "^11.8.5",
+    "node-fetch": "^2.6.7",
+    "oauth-1.0a": "^2.2.6",
+    "twitter-api-v2": "^1.12.3"
+  }
+}
